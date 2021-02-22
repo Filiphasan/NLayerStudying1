@@ -1,0 +1,17 @@
+C:\Users\hasae\Desktop\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.deps.json
+C:\Users\hasae\Desktop\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.dll
+C:\Users\hasae\Desktop\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.pdb
+C:\Users\hasae\Desktop\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.AssemblyInfo.cs
+C:\Users\hasae\Desktop\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.dll
+C:\Users\hasae\Desktop\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.pdb
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.deps.json
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\bin\Debug\netcoreapp3.1\NLayerStudying.Core.pdb
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.csprojAssemblyReference.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.AssemblyInfo.cs
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.dll
+C:\Users\hasae\Desktop\WebApplication\Asp.NetCore\Calismalar\NLayerStudying\NLayerStudying.Core\obj\Debug\netcoreapp3.1\NLayerStudying.Core.pdb
